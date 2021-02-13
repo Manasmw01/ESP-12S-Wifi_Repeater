@@ -1,8 +1,5 @@
 # ESP-12S-Wifi_Repeater
 
-# JLCPCB_Happy_Diwali
-
-
 > An ESP-12S based Wifi Repeater PCB which can be used to extend the range of Wi-Fi.
 I am planning to use multiple Wifi Repeaters to transmit data over long distances in my project.
 
